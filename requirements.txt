@@ -1,0 +1,7 @@
+pandas==2.1.1
+python-docx==1.0.1
+openpyxl==3.1.2
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+PyYAML==6.0.1 
